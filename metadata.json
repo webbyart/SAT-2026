@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SUMINO AAPICO Year-End Activity Poll",
+  "description": "A web application for SUMINO AAPICO employees to vote on their preferred year-end activity. The app displays voting options and shows the results in a pie chart.",
+  "requestFramePermissions": []
+}
